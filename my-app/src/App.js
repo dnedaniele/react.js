@@ -24,7 +24,7 @@ function App(props) {
 
   return (
     <div className="App">
-      <Product pixel={pixel} name="Backpack" price="12" quantity={4}></Product>
+      <Product name="Backpack" price="12" quantity={4}></Product>
       <Product name="Backpack" price="12" quantity={1}></Product>
       <Product name="Backpack" price="12" quantity={2}></Product>
       <Product name="Tshirt" price="12" quantity={2}></Product>
